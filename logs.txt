@@ -1,0 +1,224 @@
+http://telefon/delete_tlf/delete?name=dhfdfhttp://telefon/delete_tlf/deletehttp://telefon/delete_tlf/deletehttp://telefon/delete_tlf/delete?name=dhfdfhttp://telefon/add_tlf/addhttp://telefon/web/add_tlf/addhttp://telefon/add_tlf/addhttp://telefon/add_tlf/addhttp://telefon/add_tlf/addhttp://telefon/web/add_tlf/addhttp://telefon/add_tlf/addhttp://telefon/web/add_tlf/addhttp://telefon/add_tlf/addhttp://telefon/add_tlf/addhttp://telefon/add_tlf/add?asds=fsadfhttp://telefon/add_tlf/add?asds=fsadfhttp://telefon/add_tlf/add?asds=fsadfhttp://telefon/add_tlf/addhttp://telefon/add_tlf/addhttp://telefon/add_tlf/add?asf=fasfhttp://telefon/add_tlf/add?asf=fasfhttp://telefon/add_tlf/add/fashttp://telefon/add_tlf/addhttp://telefon/add_tlf/add?asds=fsadfhttp://telefon/add_tlf/addhttp://telefon/add_tlf/addhttp://telefon/add_tlf/add?asds=fsadfhttp://telefon/add_tlf/addhttp://telefon/add_tlf/add?asds=fsadfhttp://telefon/add_tlf/add/gsdghttp://telefon/add_tlf/addhttp://telefon/add_tlf/add/fashttp://telefon/add_tlf/addhttp://telefon/add_tlf/add?asds=fsadfhttp://telefon/add_tlf/addhttp://telefon/delete_tlf/deletehttp://telefon/delete_tlf/delete?name=peterhttp://telefon/delete_tlf/delete?name=hgsdghttp://telefon/delete_tlf/delete/hgsdghttp://telefon/delete_tlf/delete/peterhttp://telefon/delete_tlf/delete/peterhttp://telefon/delete_tlf/delete/peterhttp://telefon/delete_tlf/delete/peterArray
+(
+    [q] => delete_tlf/delete/peter
+)
+Array
+(
+    [q] => delete_tlf/delete/peter
+)
+Array
+(
+    [q] => delete_tlf/delete
+    [name] => dhfdf
+
+)
+Array
+(
+    [q] => delete_tlf/delete
+    [name] => dhhgk
+)
+Array
+(
+    [q] => delete_tlf
+    [name] => dhhgk
+)
+Array
+(
+    [q] => delete_tlf/delete/peter
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [q] => delete_tlf/delete/name/peter
+)
+Array
+(
+    [q] => delete_tlf/delete
+    [name] => gsdg
+)
+Array
+(
+    [q] => delete_tlf/delete
+    [name] => gsdg
+)
+Array
+(
+    [q] => delete_tlf/delete
+    [name] => gsdg
+)
+Array
+(
+    [q] => delete_tlf/delete
+    [name] => gsdg
+)
+Array
+(
+    [q] => delete_tlf/delete
+    [name] => gsdg
+)
+Array
+(
+    [q] => delete_tlf/delete
+    [name] => gsdg
+)
+Array
+(
+    [q] => delete_tlf/delete
+    [name] => gsdg
+)
+Array
+(
+    [q] => delete_tlf/delete
+    [name] => gsdg
+)
+Array
+(
+    [q] => delete_tlf/delete
+    [name] => gsdg
+)
+Array
+(
+    [q] => delete_tlf/delete
+)
+Array
+(
+    [q] => delete_tlf/delete
+)
+Array
+(
+    [q] => delete_tlf/delete
+)
+Array
+(
+    [q] => delete_tlf/delete
+)
+Array
+(
+    [q] => delete_tlf/delete
+)
+Array
+(
+    [q] => delete_tlf/delete
+)
+Array
+(
+    [q] => delete_tlf/delete
+    [name] => gsdg
+)
+Array
+(
+    [q] => delete_tlf/delete/name/peter
+)
+Array
+(
+    [q] => delete_tlf/delete/name/hgsdg
+)
+Array
+(
+    [q] => delete_tlf/delete/peter
+)
+Array
+(
+    [q] => delete_tlf/delete/hgsdg
+)
+Array
+(
+    [q] => delete_tlf/delete
+    [name] => hgsdg
+)
+Array
+(
+    [q] => delete_tlf
+    [name] => hgsdg
+)
+Array
+(
+    [q] => delete_tlf/delete
+)
+Array
+(
+    [q] => delete_tlf/delete
+    [name] => peter
+)
+Array
+(
+    [q] => delete_tlf/delete
+    [name] => dhfdf
+)
+Array
+(
+    [q] => delete_tlf/delete
+)
+Array
+(
+    [q] => delete_tlf/delete
+    [name] => dhfdf
+)
+Array
+(
+    [q] => add_tlf/add
+)
+Array
+(
+    [q] => add_tlf/add
+)
+Array
+(
+    [q] => delete_tlf/delete
+    [name] => Peter
+)
+Array
+(
+    [q] => delete_tlf/delete
+    [name] => Hury
+)
+Array
+(
+    [q] => delete_tlf/delete
+    [name] => peter
+)
+Array
+(
+    [q] => add_tlf/add
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [name] => gsdgs
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [name] => peter
+)
+Array
+(
+    [q] => delete_tlf/delete
+)

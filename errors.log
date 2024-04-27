@@ -1,0 +1,138 @@
+[27-Apr-2024 01:36:14 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: Illegal offset type in D:\OpenServer\domains\telefon\delete_tlf.php:12
+Stack trace:
+#0 D:\OpenServer\domains\telefon\index.php(19): delete_tlf->delete()
+#1 {main}
+  thrown in D:\OpenServer\domains\telefon\delete_tlf.php on line 12
+[27-Apr-2024 01:36:17 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: Illegal offset type in D:\OpenServer\domains\telefon\delete_tlf.php:12
+Stack trace:
+#0 D:\OpenServer\domains\telefon\index.php(19): delete_tlf->delete()
+#1 {main}
+  thrown in D:\OpenServer\domains\telefon\delete_tlf.php on line 12
+[27-Apr-2024 01:36:29 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: Illegal offset type in D:\OpenServer\domains\telefon\delete_tlf.php:12
+Stack trace:
+#0 D:\OpenServer\domains\telefon\index.php(19): delete_tlf->delete()
+#1 {main}
+  thrown in D:\OpenServer\domains\telefon\delete_tlf.php on line 12
+[27-Apr-2024 01:36:48 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: Illegal offset type in D:\OpenServer\domains\telefon\delete_tlf.php:12
+Stack trace:
+#0 D:\OpenServer\domains\telefon\index.php(19): delete_tlf->delete()
+#1 {main}
+  thrown in D:\OpenServer\domains\telefon\delete_tlf.php on line 12
+[27-Apr-2024 01:38:19 Europe/Moscow] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function delete_tlf::delete(), 0 passed in D:\OpenServer\domains\telefon\index.php on line 18 and exactly 1 expected in D:\OpenServer\domains\telefon\delete_tlf.php:8
+Stack trace:
+#0 D:\OpenServer\domains\telefon\index.php(18): delete_tlf->delete()
+#1 {main}
+  thrown in D:\OpenServer\domains\telefon\delete_tlf.php on line 8
+[27-Apr-2024 01:50:11 Europe/Moscow] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function delete_tlf::delete(), 0 passed in D:\OpenServer\domains\telefon\index.php on line 30 and exactly 1 expected in D:\OpenServer\domains\telefon\delete_tlf.php:8
+Stack trace:
+#0 D:\OpenServer\domains\telefon\index.php(30): delete_tlf->delete()
+#1 {main}
+  thrown in D:\OpenServer\domains\telefon\delete_tlf.php on line 8
+[27-Apr-2024 01:56:23 Europe/Moscow] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function delete_tlf::delete(), 0 passed in D:\OpenServer\domains\telefon\index.php on line 30 and exactly 1 expected in D:\OpenServer\domains\telefon\delete_tlf.php:8
+Stack trace:
+#0 D:\OpenServer\domains\telefon\index.php(30): delete_tlf->delete()
+#1 {main}
+  thrown in D:\OpenServer\domains\telefon\delete_tlf.php on line 8
+[27-Apr-2024 01:56:25 Europe/Moscow] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function delete_tlf::delete(), 0 passed in D:\OpenServer\domains\telefon\index.php on line 30 and exactly 1 expected in D:\OpenServer\domains\telefon\delete_tlf.php:8
+Stack trace:
+#0 D:\OpenServer\domains\telefon\index.php(30): delete_tlf->delete()
+#1 {main}
+  thrown in D:\OpenServer\domains\telefon\delete_tlf.php on line 8
+[27-Apr-2024 02:00:43 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class "web" not found in D:\OpenServer\domains\telefon\index.php:27
+Stack trace:
+#0 {main}
+  thrown in D:\OpenServer\domains\telefon\index.php on line 27
+[27-Apr-2024 02:00:50 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class "add_tlf" not found in D:\OpenServer\domains\telefon\index.php:27
+Stack trace:
+#0 {main}
+  thrown in D:\OpenServer\domains\telefon\index.php on line 27
+[27-Apr-2024 02:00:53 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class "add_tlf" not found in D:\OpenServer\domains\telefon\index.php:27
+Stack trace:
+#0 {main}
+  thrown in D:\OpenServer\domains\telefon\index.php on line 27
+[27-Apr-2024 02:00:54 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class "add_tlf" not found in D:\OpenServer\domains\telefon\index.php:27
+Stack trace:
+#0 {main}
+  thrown in D:\OpenServer\domains\telefon\index.php on line 27
+[27-Apr-2024 02:00:55 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class "web" not found in D:\OpenServer\domains\telefon\index.php:27
+Stack trace:
+#0 {main}
+  thrown in D:\OpenServer\domains\telefon\index.php on line 27
+[27-Apr-2024 02:00:56 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class "add_tlf" not found in D:\OpenServer\domains\telefon\index.php:27
+Stack trace:
+#0 {main}
+  thrown in D:\OpenServer\domains\telefon\index.php on line 27
+[27-Apr-2024 02:00:57 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class "web" not found in D:\OpenServer\domains\telefon\index.php:27
+Stack trace:
+#0 {main}
+  thrown in D:\OpenServer\domains\telefon\index.php on line 27
+[27-Apr-2024 02:00:57 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class "add_tlf" not found in D:\OpenServer\domains\telefon\index.php:27
+Stack trace:
+#0 {main}
+  thrown in D:\OpenServer\domains\telefon\index.php on line 27
+[27-Apr-2024 02:40:03 Europe/Moscow] PHP Warning:  Undefined array key "name" in D:\OpenServer\domains\telefon\index.php on line 30
+[27-Apr-2024 02:43:06 Europe/Moscow] PHP Warning:  Undefined array key "name" in D:\OpenServer\domains\telefon\index.php on line 30
+[27-Apr-2024 02:43:17 Europe/Moscow] PHP Warning:  Undefined array key "name" in D:\OpenServer\domains\telefon\index.php on line 30
+[27-Apr-2024 02:43:41 Europe/Moscow] PHP Warning:  Undefined array key "name" in D:\OpenServer\domains\telefon\index.php on line 30
+[27-Apr-2024 02:44:29 Europe/Moscow] PHP Warning:  Undefined array key "name" in D:\OpenServer\domains\telefon\index.php on line 30
+[27-Apr-2024 02:56:34 Europe/Moscow] PHP Warning:  Undefined array key "name" in D:\OpenServer\domains\telefon\index.php on line 30
+[27-Apr-2024 02:57:46 Europe/Moscow] PHP Warning:  Undefined array key "name" in D:\OpenServer\domains\telefon\index.php on line 30
+[27-Apr-2024 03:15:25 Europe/Moscow] PHP Warning:  Undefined array key "name" in D:\OpenServer\domains\telefon\index.php on line 30
+[27-Apr-2024 03:15:29 Europe/Moscow] PHP Warning:  Undefined array key "name" in D:\OpenServer\domains\telefon\index.php on line 30
+[27-Apr-2024 03:15:30 Europe/Moscow] PHP Warning:  Undefined array key "name" in D:\OpenServer\domains\telefon\index.php on line 30
+[27-Apr-2024 03:15:32 Europe/Moscow] PHP Warning:  Undefined array key "name" in D:\OpenServer\domains\telefon\index.php on line 30
+[27-Apr-2024 03:15:33 Europe/Moscow] PHP Warning:  Undefined array key "name" in D:\OpenServer\domains\telefon\index.php on line 30
+[27-Apr-2024 03:15:36 Europe/Moscow] PHP Warning:  Undefined array key "name" in D:\OpenServer\domains\telefon\index.php on line 30
+[27-Apr-2024 03:15:41 Europe/Moscow] PHP Warning:  Undefined array key "name" in D:\OpenServer\domains\telefon\index.php on line 30
+[27-Apr-2024 03:15:44 Europe/Moscow] PHP Warning:  Undefined array key "name" in D:\OpenServer\domains\telefon\index.php on line 30
+[27-Apr-2024 03:16:41 Europe/Moscow] PHP Warning:  Undefined array key "name" in D:\OpenServer\domains\telefon\index.php on line 30
+[27-Apr-2024 03:16:46 Europe/Moscow] PHP Warning:  Undefined array key "name" in D:\OpenServer\domains\telefon\index.php on line 30
+[27-Apr-2024 03:24:47 Europe/Moscow] PHP Warning:  Undefined array key "name" in D:\OpenServer\domains\telefon\index.php on line 30
+[27-Apr-2024 03:25:12 Europe/Moscow] PHP Warning:  Undefined array key "name" in D:\OpenServer\domains\telefon\index.php on line 30
+[27-Apr-2024 03:25:16 Europe/Moscow] PHP Warning:  Undefined array key "name" in D:\OpenServer\domains\telefon\index.php on line 30
+[27-Apr-2024 03:25:24 Europe/Moscow] PHP Warning:  Undefined array key "name" in D:\OpenServer\domains\telefon\index.php on line 30
+[27-Apr-2024 03:25:51 Europe/Moscow] PHP Warning:  Undefined array key "name" in D:\OpenServer\domains\telefon\index.php on line 30
+[27-Apr-2024 03:29:27 Europe/Moscow] PHP Warning:  Undefined array key "name" in D:\OpenServer\domains\telefon\index.php on line 30
+[27-Apr-2024 11:38:38 Europe/Moscow] PHP Warning:  Undefined array key 2 in D:\OpenServer\domains\telefon\index.php on line 23
+[27-Apr-2024 11:38:43 Europe/Moscow] PHP Warning:  Undefined array key 2 in D:\OpenServer\domains\telefon\index.php on line 23
+[27-Apr-2024 11:40:20 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: explode(): Argument #2 ($string) must be of type string, array given in D:\OpenServer\domains\telefon\index.php:9
+Stack trace:
+#0 D:\OpenServer\domains\telefon\index.php(9): explode()
+#1 {main}
+  thrown in D:\OpenServer\domains\telefon\index.php on line 9
+[27-Apr-2024 11:40:21 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: explode(): Argument #2 ($string) must be of type string, array given in D:\OpenServer\domains\telefon\index.php:9
+Stack trace:
+#0 D:\OpenServer\domains\telefon\index.php(9): explode()
+#1 {main}
+  thrown in D:\OpenServer\domains\telefon\index.php on line 9
+[27-Apr-2024 11:40:23 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: explode(): Argument #2 ($string) must be of type string, array given in D:\OpenServer\domains\telefon\index.php:9
+Stack trace:
+#0 D:\OpenServer\domains\telefon\index.php(9): explode()
+#1 {main}
+  thrown in D:\OpenServer\domains\telefon\index.php on line 9
+[27-Apr-2024 11:42:40 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: array_values(): Argument #1 ($array) must be of type array, string given in D:\OpenServer\domains\telefon\index.php:35
+Stack trace:
+#0 D:\OpenServer\domains\telefon\index.php(35): array_values()
+#1 {main}
+  thrown in D:\OpenServer\domains\telefon\index.php on line 35
+[27-Apr-2024 11:42:42 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: array_values(): Argument #1 ($array) must be of type array, string given in D:\OpenServer\domains\telefon\index.php:35
+Stack trace:
+#0 D:\OpenServer\domains\telefon\index.php(35): array_values()
+#1 {main}
+  thrown in D:\OpenServer\domains\telefon\index.php on line 35
+[27-Apr-2024 11:43:17 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: array_values(): Argument #1 ($array) must be of type array, string given in D:\OpenServer\domains\telefon\index.php:35
+Stack trace:
+#0 D:\OpenServer\domains\telefon\index.php(35): array_values()
+#1 {main}
+  thrown in D:\OpenServer\domains\telefon\index.php on line 35
+[27-Apr-2024 11:47:15 Europe/Moscow] PHP Warning:  Array to string conversion in D:\OpenServer\domains\telefon\index.php on line 24
+[27-Apr-2024 11:49:29 Europe/Moscow] PHP Warning:  Array to string conversion in D:\OpenServer\domains\telefon\index.php on line 24
+[27-Apr-2024 11:55:30 Europe/Moscow] PHP Warning:  Array to string conversion in D:\OpenServer\domains\telefon\index.php on line 24
+[27-Apr-2024 11:55:45 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: array_values(): Argument #1 ($array) must be of type array, string given in D:\OpenServer\domains\telefon\index.php:24
+Stack trace:
+#0 D:\OpenServer\domains\telefon\index.php(24): array_values()
+#1 {main}
+  thrown in D:\OpenServer\domains\telefon\index.php on line 24
+[27-Apr-2024 11:55:57 Europe/Moscow] PHP Warning:  Undefined array key "name" in D:\OpenServer\domains\telefon\index.php on line 24
+[27-Apr-2024 11:56:59 Europe/Moscow] PHP Warning:  Array to string conversion in D:\OpenServer\domains\telefon\index.php on line 24
+[27-Apr-2024 11:57:10 Europe/Moscow] PHP Warning:  Undefined array key "name" in D:\OpenServer\domains\telefon\index.php on line 24
